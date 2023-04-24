@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Misc. Craftable Robots Addon (Continued)</name>
+  <packageId>Mlie.MiscCraftableRobotsAddon</packageId>
+  <author>Shadow</author>
+  <url>https://github.com/emipa606/MiscCraftableRobotsAddon</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>leion247658.miscvhcraftablehrobots</packageId>
+      <displayName>Misc. Craftable Robots</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1409512356</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>leion247658.miscvhcraftablehrobots</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of mod https://steamcommunity.com/sharedfiles/filedetails/?id=2148897780
+
+Removed the redundant assemblies
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/MiscCraftableRobotsAddon][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/h5VwTNL.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[h1] DISCLAIMER [/h1]
+[code]I'm not a professional modder, so please report any bugs you find and I'll try my best to fix it![/code]
+
+Currently taking a break from Rimworld modding, so not updating this mod for now.
+
+[h1] What does it do?[/h1]
+This mod tweaks a few things on the main mod:
+
+[b]Gardener Bot[/b]
+- Will now do cooking jobs as well
+- Workspeed increased
+- Added Cooking skill, set to 20, so it can cook things that require it
+
+[b]Crafting Bot[/b]
+- Will now do art jobs as well
+- Workspeed increased
+- Added Intellectual skill, set to 20, so it can craft things that require it
+
+[b]Hauler Bot[/b]
+- Carry capacity increased (Can now haul a lot more per trip)
+- Move speed increased (5x increase from base mod for optimal hauling)
+
+[b]Mining Bot, Cleaner Bot and Construction Bot[/b]
+- Workspeed increased
+- Move speed increased
+- Construction Bot will haul more stuff at once to blueprints
+
+It also adds new bot types (All bots have level 20 skills, just as in the parent mod):
+[b]ER Bot:[/b]
+- A robot capable of tending wounds, doing surgeries and fighting fires.
+[b]BONUS[/b]
+If [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1787359789]Questionable Ethics Enhanced[/url] is loaded, ER Bot will do Vat Maintaining jobs
+
+[b]Analysis Bot:[/b]
+- A robot capable of doing research type jobs, such as research itself and operating scanners
+[b]BONUS[/b]
+If [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1505914869]What the hack?![/url] is loaded, Analysis Bot will do Hacking jobs
+If [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2056230561]Preemptive Strike (v1.1 Fork)[/url] is loaded, Analysis Bot will do Recon jobs
+
+[h1] Robots for a few mods [/h1]
+An Atomic Bot has been added for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1127530465]Rimatomics[/url], for Nuclear jobs
+A Fisher Bot has been added for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1914064942]Vanila Fishing Expanded[/url], for Fishing jobs
+A Beekeeper Bot has been added for [url=https://steamcommunity.com/workshop/filedetails/?id=1558161673]RimBees[/url], for Beekeeping jobs
+
+[b]These robots will only appear in your game if you have the linked mod activated on your modlist. Otherwise they won't appear anywhere.[/b]
+
+All robots follow the same recipes as the main mod (150 Steel, 30 Plasteel, 100 Gold and 5 Components)
+
+[h1] Credits [/h1]
+Haplo_X1 - Misc Robots
+leion247 - Misc Craftable Robots
+notfood/Charlotte - LoadOnDemand.dll
+
+The textures used for the new bots on this mod are just recolorings of the original mod's bots, with a few tweaks
+
+[h1] Better textures [/h1]
+I'm no artist. If you want something more visually appealing, I highly recommend using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2140349611]Misc. Craftable Robots Retexture[/url] by gloriousyuri
+
+[h1] Compatibility [/h1]
+[b]QualitySurgeon[/b] - ERBots will not do surgery with this mod activated
+
+[h1] Dependencies and load order [/h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=724602224]Misc Robots[/url] and [url=https://steamcommunity.com/workshop/filedetails/?id=1409512356]Misc Craftable Robots[/url]. Load after both of them
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]</description>
+</ModMetaData>

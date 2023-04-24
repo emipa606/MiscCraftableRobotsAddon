@@ -1,0 +1,4 @@
+# Changelog for MiscCraftableRobotsAddon
+
+1.4.0 - First publish
+
