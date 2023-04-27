@@ -21,9 +21,10 @@
     <li>leion247658.miscvhcraftablehrobots</li>
   </loadAfter>
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
-Update of mod https://steamcommunity.com/sharedfiles/filedetails/?id=2148897780
+Update of Shadows mod https://steamcommunity.com/sharedfiles/filedetails/?id=2148897780
 
-Removed the redundant assemblies
+- Removed the redundant assemblies
+- Fixed so all misc-robots have the 20 skill even if using Biotech
 
 [img]https://i.imgur.com/pufA0kM.png[/img]
 
@@ -109,5 +110,6 @@ I'm no artist. If you want something more visually appealing, I highly recommend
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
-[/list]</description>
+[/list]
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2966777634]Last updated 2023-04-27[/url]</description>
 </ModMetaData>

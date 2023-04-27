@@ -2,9 +2,10 @@
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
-Update of mod https://steamcommunity.com/sharedfiles/filedetails/?id=2148897780
+Update of Shadows mod https://steamcommunity.com/sharedfiles/filedetails/?id=2148897780
 
-Removed the redundant assemblies
+- Removed the redundant assemblies
+- Fixed so all misc-robots have the 20 skill even if using Biotech
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
@@ -94,3 +95,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=724602224]Misc Robots and
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2966777634]Last updated 2023-04-27

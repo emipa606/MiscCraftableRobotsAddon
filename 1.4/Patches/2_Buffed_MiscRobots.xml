@@ -20,4 +20,11 @@
       <MoveSpeed>12</MoveSpeed>
     </value>
   </Operation>
+  <!-- Sets biotech mechskill for all robots to 20 -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[@Name="Base_X2_AIRobot"]/race</xpath>
+    <value>
+      <mechFixedSkillLevel>20</mechFixedSkillLevel>
+    </value>
+  </Operation>
 </Patch>

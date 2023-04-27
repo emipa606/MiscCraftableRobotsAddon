@@ -1,4 +1,7 @@
 # Changelog for MiscCraftableRobotsAddon
 
+1.4.1 - Added biotech-worktypes. Fixed Misc Robots not having 20 skill if biotech is active.
+
+
 1.4.0 - First publish
 
