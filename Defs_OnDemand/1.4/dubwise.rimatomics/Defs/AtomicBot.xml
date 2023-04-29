@@ -25,6 +25,11 @@
         <passion>Minor</passion>
       </li>
     </robotSkills>
+    <race>
+      <mechEnabledWorkTypes>
+        <li>NuclearWork</li>
+      </mechEnabledWorkTypes>
+    </race>
     <robotWorkTypes>
       <li>
         <workTypeDef>NuclearWork</workTypeDef>

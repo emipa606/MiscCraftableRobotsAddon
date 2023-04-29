@@ -19,6 +19,11 @@
         <passion>Minor</passion>
       </li>
     </robotSkills>
+    <race>
+      <mechEnabledWorkTypes>
+        <li>VCEF_Fishing</li>
+      </mechEnabledWorkTypes>
+    </race>
     <robotWorkTypes>
       <li>
         <workTypeDef>VCEF_Fishing</workTypeDef>

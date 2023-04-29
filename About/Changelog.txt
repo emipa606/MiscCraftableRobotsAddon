@@ -1,5 +1,8 @@
 # Changelog for MiscCraftableRobotsAddon
 
+1.4.2 - The Fishing, Nuclear and Beekeeping bot should now work when Biotech is active as well
+
+
 1.4.1 - Added biotech-worktypes. Fixed Misc Robots not having 20 skill if biotech is active.
 
 

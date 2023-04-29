@@ -24,6 +24,11 @@
         <passion>Minor</passion>
       </li>
     </robotSkills>
+    <race>
+      <mechEnabledWorkTypes>
+        <li>RB_BeekeepingWork</li>
+      </mechEnabledWorkTypes>
+    </race>
     <robotWorkTypes>
       <li>
         <workTypeDef>RB_BeekeepingWork</workTypeDef>
