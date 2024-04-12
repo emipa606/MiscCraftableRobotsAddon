@@ -1,5 +1,8 @@
 # Changelog for MiscCraftableRobotsAddon
 
+1.5.0 - Mod updated for 1.5 and passed autotests
+
+
 1.4.2 - The Fishing, Nuclear and Beekeeping bot should now work when Biotech is active as well
 
 

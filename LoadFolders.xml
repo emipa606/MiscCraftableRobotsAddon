@@ -28,4 +28,11 @@
     <li IfModActive="sarg.rimbees">Defs_OnDemand/1.4/sarg.rimbees</li>
     <li IfModActive="vanillaexpanded.vcef">Defs_OnDemand/1.4/vanillaexpanded.vcef</li>
   </v1.4>
+  <v1.5>
+    <li>/</li>
+    <li>1.5</li>
+    <li IfModActive="dubwise.rimatomics">Defs_OnDemand/1.5/dubwise.rimatomics</li>
+    <li IfModActive="sarg.rimbees">Defs_OnDemand/1.5/sarg.rimbees</li>
+    <li IfModActive="vanillaexpanded.vcef">Defs_OnDemand/1.5/vanillaexpanded.vcef</li>
+  </v1.5>
 </loadFolders>
