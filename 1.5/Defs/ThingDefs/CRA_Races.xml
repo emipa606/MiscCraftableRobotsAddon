@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- New Robot: Emergency Response Bot -->
   <ThingDef ParentName="AIRobot_Bot" Class="AIRobot.X2_ThingDef_AIRobot">
@@ -21,6 +21,13 @@
         <priority>2</priority>
       </li>
     </robotWorkTypes>
+    <robotSkills>
+      <li>
+        <skillDef>Medicine</skillDef>
+        <level>20</level>
+        <passion>Minor</passion>
+      </li>
+    </robotSkills>
     <destroyedDef>AIRobot_ERBot_disabled</destroyedDef>
   </ThingDef>
   <!-- New Robot: Analysis Bot -->
@@ -39,6 +46,13 @@
         <priority>1</priority>
       </li>
     </robotWorkTypes>
+    <robotSkills>
+      <li>
+        <skillDef>Intellectual</skillDef>
+        <level>20</level>
+        <passion>Minor</passion>
+      </li>
+    </robotSkills>
     <destroyedDef>AIRobot_AnalysisBot_disabled</destroyedDef>
   </ThingDef>
 </Defs>
