@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Patch>
-  <Operation Class="PatchOperationReplace">
-    <xpath>Defs/ThingDef[@Name="AIRobot_Bot"]/statBases/MoveSpeed</xpath>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[@Name="AIRobot_Bot"]</xpath>
     <value>
-      <MoveSpeed>12.00</MoveSpeed>
-    </value>
-  </Operation>
-  <Operation Class="PatchOperationReplace">
-    <xpath>Defs/ThingDef[@Name="AIRobot_Bot"]/statBases/CarryingCapacity</xpath>
-    <value>
-      <CarryingCapacity>200</CarryingCapacity>
-    </value>
-  </Operation>
-  <Operation Class="PatchOperationReplace">
-    <xpath>Defs/ThingDef[@Name="AIRobot_Bot"]/statBases/WorkSpeedGlobal</xpath>
-    <value>
-      <WorkSpeedGlobal>2</WorkSpeedGlobal>
+      <statBases>
+        <MoveSpeed>12.00</MoveSpeed>
+        <CarryingCapacity>200</CarryingCapacity>
+        <WorkSpeedGlobal>2</WorkSpeedGlobal>
+      </statBases>
     </value>
   </Operation>
   <Operation Class="PatchOperationAdd">
