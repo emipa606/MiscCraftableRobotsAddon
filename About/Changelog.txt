@@ -1,5 +1,8 @@
 # Changelog for MiscCraftableRobotsAddon
 
+1.6.0 - Mod updated for 1.6 and passed autotests
+
+
 1.5.2 - Fixed stat-changes since the referenced mod changed its definitions. Increased the draw-size since the referenced mod changed their graphics
 
 

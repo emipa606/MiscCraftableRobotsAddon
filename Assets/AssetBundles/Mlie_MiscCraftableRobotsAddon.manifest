@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 4244981474
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f28d0c77c04d2283b85f3bd3c1e5991c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f28d0c77c04d2283b85f3bd3c1e5991c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_AnalysisBot_south.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_BeekeepingBot_north.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/AtomicBot_south.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_BeekeepingBot_south.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_ERBot_east.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/FisherBot_south.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/ERBot_east.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_AnalysisBot_east.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_AnalysisBot_north.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_BeekeepingBot_east.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_AtomicBot_south.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_FisherBot_east.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/AnalysisBot_north.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_FisherBot_north.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/ERBot_south.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/BeekeepingBot_south.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/AtomicBot_north.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_FisherBot_south.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_AtomicBot_east.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/BeekeepingBot_east.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/BeekeepingBot_north.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_ERBot_south.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_AtomicBot_north.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/ERBot_north.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/AtomicBot_east.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/AnalysisBot_east.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/AnalysisBot_south.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/Building/AIRobot_RechargeStation/AIRobotRechargeStation_ERBot_north.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/FisherBot_north.png
+- Assets/Data/Mlie.MiscCraftableRobotsAddon/Textures/Things/AIRobot/FisherBot_east.png
+Dependencies: []

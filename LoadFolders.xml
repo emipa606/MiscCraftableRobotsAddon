@@ -6,6 +6,7 @@
     <li IfModActive="dubwise.rimatomics">Defs_OnDemand/1.1/dubwise.rimatomics</li>
     <li IfModActive="sarg.rimbees">Defs_OnDemand/1.1/sarg.rimbees</li>
     <li IfModActive="vanillaexpanded.vcef">Defs_OnDemand/1.1/vanillaexpanded.vcef</li>
+    <li>LegacyAssets</li>
   </v1.1>
   <v1.2>
     <li>/</li>
@@ -13,6 +14,7 @@
     <li IfModActive="dubwise.rimatomics">Defs_OnDemand/1.2/dubwise.rimatomics</li>
     <li IfModActive="sarg.rimbees">Defs_OnDemand/1.2/sarg.rimbees</li>
     <li IfModActive="vanillaexpanded.vcef">Defs_OnDemand/1.2/vanillaexpanded.vcef</li>
+    <li>LegacyAssets</li>
   </v1.2>
   <v1.3>
     <li>/</li>
@@ -20,6 +22,7 @@
     <li IfModActive="dubwise.rimatomics">Defs_OnDemand/1.3/dubwise.rimatomics</li>
     <li IfModActive="sarg.rimbees">Defs_OnDemand/1.3/sarg.rimbees</li>
     <li IfModActive="vanillaexpanded.vcef">Defs_OnDemand/1.3/vanillaexpanded.vcef</li>
+    <li>LegacyAssets</li>
   </v1.3>
   <v1.4>
     <li>/</li>
@@ -27,6 +30,7 @@
     <li IfModActive="dubwise.rimatomics">Defs_OnDemand/1.4/dubwise.rimatomics</li>
     <li IfModActive="sarg.rimbees">Defs_OnDemand/1.4/sarg.rimbees</li>
     <li IfModActive="vanillaexpanded.vcef">Defs_OnDemand/1.4/vanillaexpanded.vcef</li>
+    <li>LegacyAssets</li>
   </v1.4>
   <v1.5>
     <li>/</li>
@@ -34,5 +38,14 @@
     <li IfModActive="dubwise.rimatomics">Defs_OnDemand/1.5/dubwise.rimatomics</li>
     <li IfModActive="sarg.rimbees">Defs_OnDemand/1.5/sarg.rimbees</li>
     <li IfModActive="vanillaexpanded.vcef">Defs_OnDemand/1.5/vanillaexpanded.vcef</li>
+    <li>LegacyAssets</li>
   </v1.5>
+  <v1.6>
+    <li>/</li>
+    <li>1.6</li>
+    <li IfModActive="dubwise.rimatomics">Defs_OnDemand/1.6/dubwise.rimatomics</li>
+    <li IfModActive="sarg.rimbees">Defs_OnDemand/1.6/sarg.rimbees</li>
+    <li IfModActive="vanillaexpanded.vcef">Defs_OnDemand/1.6/vanillaexpanded.vcef</li>
+    <li>Assets</li>
+  </v1.6>
 </loadFolders>

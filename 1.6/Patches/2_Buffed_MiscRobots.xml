@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[@Name="AIRobot_Bot"]</xpath>
+    <value>
+      <statBases>
+        <MoveSpeed>12.00</MoveSpeed>
+        <CarryingCapacity>200</CarryingCapacity>
+        <WorkSpeedGlobal>2</WorkSpeedGlobal>
+      </statBases>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[@Name="AIRobot_Bot"]/robotSkills</xpath>
+    <value>
+      <li>
+        <skillDef>Medicine</skillDef>
+        <level>20</level>
+        <passion>Minor</passion>
+      </li>
+      <li>
+        <skillDef>Artistic</skillDef>
+        <level>20</level>
+        <passion>Minor</passion>
+      </li>
+      <li>
+        <skillDef>Animals</skillDef>
+        <level>20</level>
+        <passion>Minor</passion>
+      </li>
+    </value>
+  </Operation>
+  <!-- Buffs HaulerBot from Misc Robots (Carrying capacity and movespeed) -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="AIRobot_Hauler"]/statBases/CarryingCapacity</xpath>
+    <value>
+      <CarryingCapacity>700</CarryingCapacity>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="AIRobot_Hauler"]/statBases/MoveSpeed</xpath>
+    <value>
+      <MoveSpeed>30</MoveSpeed>
+    </value>
+  </Operation>
+  <!-- Buffs Cleaner from Misc Robots (Movespeed)-->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="AIRobot_Cleaner"]/statBases/MoveSpeed</xpath>
+    <value>
+      <MoveSpeed>12</MoveSpeed>
+    </value>
+  </Operation>
+  <!-- Sets biotech mechskill for all robots to 20 -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[@Name="Base_X2_AIRobot"]/race</xpath>
+    <value>
+      <mechFixedSkillLevel>20</mechFixedSkillLevel>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="AIRobot_CraftingBot"]/race/mechEnabledWorkTypes</xpath>
+    <value>
+      <li>Art</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="AIRobot_CraftingBot"]/robotWorkTypes</xpath>
+    <value>
+      <li>
+        <workTypeDef>Art</workTypeDef>
+        <priority>1</priority>
+      </li>
+    </value>
+  </Operation>
+</Patch>
