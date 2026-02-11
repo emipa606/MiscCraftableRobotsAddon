@@ -21,12 +21,12 @@
     </robotSkills>
     <race>
       <mechEnabledWorkTypes>
-        <li>VCEF_Fishing</li>
+        <li>Fishing</li>
       </mechEnabledWorkTypes>
     </race>
     <robotWorkTypes>
       <li>
-        <workTypeDef>VCEF_Fishing</workTypeDef>
+        <workTypeDef>Fishing</workTypeDef>
         <priority>1</priority>
       </li>
     </robotWorkTypes>

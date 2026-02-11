@@ -1,15 +1,15 @@
 # [Misc. Craftable Robots Addon (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2966777634)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Shadows mod https://steamcommunity.com/sharedfiles/filedetails/?id=2148897780
 
 - Removed the redundant assemblies
 - Fixed so all misc-robots have the 20 skill even if using Biotech
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 #  DISCLAIMER 
 
@@ -82,13 +82,13 @@ I'm no artist. If you want something more visually appealing, I highly recommend
 
 [Misc Robots](https://steamcommunity.com/sharedfiles/filedetails/?id=724602224) and [Misc Craftable Robots](https://steamcommunity.com/workshop/filedetails/?id=1409512356). Load after both of them
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -96,4 +96,4 @@ I'm no artist. If you want something more visually appealing, I highly recommend
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/MiscCraftableRobotsAddon?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2966777634) | tags:  new bot types
+[![Image](https://img.shields.io/github/v/release/emipa606/MiscCraftableRobotsAddon?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2966777634) | tags: new bot types
